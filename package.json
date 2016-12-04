@@ -1,0 +1,15 @@
+{
+  "name": "unsplash-background-setter",
+  "version": "1.0.0",
+  "description": "electron application ",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Hevia & Kirsten Swanson",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.4.10"
+  }
+}
